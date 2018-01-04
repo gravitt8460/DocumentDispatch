@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter
+END
+CreateTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/CreateTag.java
+END
+CreateOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/src/com/josiejune/documentdispatch/servlets/inter/CreateOperator.java
+END
+UpdateMessageNotes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/UpdateMessageNotes.java
+END
+ToggleOperatorOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/ToggleOperatorOnline.java
+END
+RemoveKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/RemoveKeyword.java
+END
+CreateKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/CreateKeyword.java
+END
+RemoveOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/RemoveOperator.java
+END
+UpdateOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7/trunk/src/com/josiejune/documentdispatch/servlets/inter/UpdateOperator.java
+END
+DownloadPurchaseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/inter/DownloadPurchaseOrder.java
+END

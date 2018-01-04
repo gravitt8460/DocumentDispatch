@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views
+END
+DailyStatusData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/DailyStatusData.java
+END
+DescriptivePerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/DescriptivePerformance.java
+END
+RoutedToCapacitySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/RoutedToCapacitySource.java
+END
+GetPOProcessingCycleTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/src/com/josiejune/documentdispatch/servlets/views/GetPOProcessingCycleTime.java
+END
+GetTagsForMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/GetTagsForMessage.java
+END
+MessageListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/MessageListView.java
+END
+OperatorPerformance.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/src/com/josiejune/documentdispatch/servlets/views/OperatorPerformance.java
+END
+GetEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/GetEventList.java
+END
+SearchResultsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/SearchResultsView.java
+END
+ThroughputByHourSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/ThroughputByHourSource.java
+END
+GetLatestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/src/com/josiejune/documentdispatch/servlets/views/GetLatestMessages.java
+END
+GetPurchaseOrdersInQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/GetPurchaseOrdersInQueue.java
+END
+GetProcessPOOperatorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7/trunk/src/com/josiejune/documentdispatch/servlets/views/GetProcessPOOperatorList.java
+END
+FormatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/FormatUtil.java
+END
+GetKeywordsForOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/GetKeywordsForOperator.java
+END
+SearchMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/SearchMessages.java
+END
+GetTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/views/GetTags.java
+END
+GetMessagesOfType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/src/com/josiejune/documentdispatch/servlets/views/GetMessagesOfType.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks
+END
+CompletePurchaseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/CompletePurchaseOrder.java
+END
+RouteMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/RouteMessage.java
+END
+GetOCRResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/GetOCRResults.java
+END
+ResetAllOperatorStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/ResetAllOperatorStats.java
+END
+LoadDefaultData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/src/com/josiejune/documentdispatch/servlets/tasks/LoadDefaultData.java
+END
+SendMailTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/SendMailTask.java
+END
+SubmitOCRRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/SubmitOCRRequest.java
+END
+DeleteAllOfType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/DeleteAllOfType.java
+END
+ProcessMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/ProcessMessage.java
+END
+DeleteAllMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/DeleteAllMessages.java
+END
+RouteMessageUnmanaged.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/RouteMessageUnmanaged.java
+END
+CompleteOrdersInQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/CompleteOrdersInQueue.java
+END
+ETL.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/ETL.java
+END
+MailHandlerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/MailHandlerServlet.java
+END
+DeleteAllData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/DeleteAllData.java
+END
+FailSafeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/src/com/josiejune/documentdispatch/servlets/tasks/FailSafeTask.java
+END
